@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#f4efe3"/>
+  <rect x="72" y="72" width="368" height="368" rx="64" fill="#a63729"/>
+  <rect x="94" y="94" width="324" height="324" rx="48" fill="none" stroke="#f4efe3" stroke-width="8" opacity="0.9"/>
+  <g fill="#faf6ec" text-anchor="middle" font-family="Songti SC, SimSun, serif">
+    <text x="256" y="246" font-size="150">青</text>
+    <text x="256" y="384" font-size="126">简</text>
+  </g>
+</svg>
